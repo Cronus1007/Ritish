@@ -19,11 +19,6 @@
 <code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
 
-
-- 📫 How to reach me:&nbsp; <a href="https://www.linkedin.com/in/ritish-thareja-668465197/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp
-<img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cronus1007&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <details>
 <summary><b>Coding Statistics over Last 7 days. . .</b>  </summary><br/>
   <p align="center">
