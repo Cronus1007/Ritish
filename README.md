@@ -10,7 +10,7 @@
  &nbsp;
 <br/> 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cronus1007&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
