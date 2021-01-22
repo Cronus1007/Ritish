@@ -20,9 +20,7 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
 
 
-- 📫 How to reach me:&nbsp; <a href="https://www.linkedin.com/in/ritish-thareja-668465197/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp;
-<a href="https://codeforces.com/profile/Cronus1007" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Codeforces_logo.svg#/media/File:Codeforces_logo.svg" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp;
- &nbsp;
+- 📫 How to reach me:&nbsp; <a href="https://www.linkedin.com/in/ritish-thareja-668465197/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp
 <img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cronus1007&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
