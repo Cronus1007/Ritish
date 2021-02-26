@@ -25,7 +25,17 @@
     <img src = "https://wakatime.com/share/@nirmalsilwal/ca8e12f4-d5a5-47a9-997d-6fafb6a5d7d6.svg" height="400">
   </p>
 </details>
+<div align="left">
 
+### Star❤️my repo if you like it!
+
+</div>
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/cronus1007/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 <!--- 😄 Pronouns: He/His
 - ⚡ Fun fact: Discovered my hobby of Reading during covid19.
