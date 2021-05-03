@@ -22,11 +22,8 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
 
 <details>
-<summary><b>Coding Statistics over Last 7 days. . .</b>  </summary><br/>
-  <p align="center">
-    <img src = "https://wakatime.com/share/@nirmalsilwal/ca8e12f4-d5a5-47a9-997d-6fafb6a5d7d6.svg" height="400">
-  </p>
-</details>
+<summary>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical" alt="readme stats">
 <div align="left">
 
 ### Star❤️my repo if you like it!
