@@ -23,9 +23,7 @@
 
 <details>
 <summary>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical" alt="readme stats">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)]
-<div align="left">
+<img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical" alt="readme stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cronus1007&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Star❤️my repo if you like it!
 
