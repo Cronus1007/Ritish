@@ -21,7 +21,8 @@
 <code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical" alt="readme stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cronus1007&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical" alt="readme stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cronus1007&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Star❤️my repo if you like it!
 
