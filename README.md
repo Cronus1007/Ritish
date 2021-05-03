@@ -55,3 +55,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 linkedln old link : src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nirmal-silwal"
 twitter old link : src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cronus1007&theme=dark)](https://git.io/streak-stats)
