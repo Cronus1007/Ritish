@@ -33,20 +33,4 @@
   </tr>
 </table>
 
-<!--- 😄 Pronouns: He/His
-- ⚡ Fun fact: Discovered my hobby of Reading during covid19.
-<img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-All inbuilt themes :-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula  
-     ###  layout of languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&language=compact)](https://github.com/anuraghazra/github-readme-stats)
-               to add extra pins of your repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NirmalSilwal&repo=Problem-Solving)](https://github.com/anuraghazra/github-readme-stats)
-[![HitCount](http://hits.dwyl.com/NirmalSilwal/NirmalSilwal.svg)](http://hits.dwyl.com/NirmalSilwal/NirmalSilwal) 
-- 📫 How to reach me: [Twitter](https://twitter.com/silwal_nirmal) [Linkedln](https://www.linkedin.com/in/nirmal-silwal/)
-<br><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NirmalSilwal" alt="nirmalsilwal" /> </p>
-linkedln old link : src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nirmal-silwal"
-twitter old link : src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
--->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cronus1007&theme=dark)](https://git.io/streak-stats)<img height="185" alt="Github Streak" src="https://camo.githubusercontent.com/797ae82e5bbab42afb65299666ccea8e4328bb6470407c14bcef614dab6fabe6/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f323030772e776562703f6369643d656366303565343779727a6e687964347731636e77626533686c696c706d6c733363306d7273796d68647a6d7a70357a267269643d323030772e77656270" data-canonical-src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&amp;rid=200w.webp" style="max-width:100%;">
