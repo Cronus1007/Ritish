@@ -18,7 +18,6 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/vue-js.png"/></code>
