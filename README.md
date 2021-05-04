@@ -15,6 +15,7 @@
 <code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
