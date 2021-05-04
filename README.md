@@ -19,6 +19,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/vue-js.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
 <code><img height="20" src="https://sentry.io/_assets/logos/node-3424bd51a773808e4b2473878d45009ded79ac1a897b64de6fb68b8e0dd4a697.svg"></code>
 <code><img height="20" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"></code>
 <code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
