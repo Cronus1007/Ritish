@@ -1,3 +1,7 @@
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Cronus1007"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@delhi?v=1" align="right">
+</p>
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> I'm Ritish  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working upon competitive programming as well as an open source enthusiast. <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/>
@@ -33,11 +37,6 @@
 ### Star❤️my repo if you like it!
 
 </div>
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/cronus1007/count.svg" alt="" /></td>
-  </tr>
-</table>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Cronus1007&theme=radical&count_private=true)](https://git.io/streak-stats)<img height="185" alt="Github Streak" src="https://camo.githubusercontent.com/797ae82e5bbab42afb65299666ccea8e4328bb6470407c14bcef614dab6fabe6/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f323030772e776562703f6369643d656366303565343779727a6e687964347731636e77626533686c696c706d6c733363306d7273796d68647a6d7a70357a267269643d323030772e77656270" data-canonical-src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&amp;rid=200w.webp" style="max-width:100%;">
