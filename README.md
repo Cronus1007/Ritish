@@ -29,7 +29,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical&count_private=true" alt="readme stats" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cronus1007&layout=compact&theme=radical" >
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cronus1007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Star❤️my repo if you like it!
 
