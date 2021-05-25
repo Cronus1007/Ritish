@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on certain Open Source Projects.
 - 💬 Ask me about Javascript,Python,C++, PHP
-- Open Source Contributor @Accord-Project <code><img height="20" src="https://avatars.githubusercontent.com/u/29445438?v=4"></code>
 - Open Source Contributor @Creative-Commons <code><img height="20" src="https://avatars.githubusercontent.com/u/3248958?v=4"></code>
 - Open Source Contributor @Mozilla <code><img height="20" src="https://avatars.githubusercontent.com/u/131524?v=4"></code>
 - Open Source Contributor @Webpack <code><img height="20" src="https://avatars.githubusercontent.com/u/2105791?v=4"></code>
