@@ -31,6 +31,11 @@
 <code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
 
+<br />
+<br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="deep-69bits" /></a> </p>
+<br />
+<br />
 <img src = "https://github-readme-stats.vercel.app/api?username=Cronus1007&&show_icons=true&theme=radical&count_private=true" alt="readme stats" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cronus1007&layout=compact&theme=radical" >
 
